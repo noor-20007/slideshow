@@ -1,0 +1,21 @@
+h1{
+    text-align:center ;
+    background-color: blueviolet;
+    color: white;
+}
+#slideshow{
+    width:800px;
+    height:600px;
+    display: block;
+    margin:50px auto;
+    border: 2px blueviolet solid;
+    padding: 10px;
+}
+p{
+    margin: auto;
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size:xx-large;
+    width: fit-content;
+}
